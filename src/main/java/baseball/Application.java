@@ -8,5 +8,6 @@ public class Application {
         BaseballController baseballController = new BaseballController();
 
         baseballController.createBaseballNumber();
+        baseballController.startGame();
     }
 }
