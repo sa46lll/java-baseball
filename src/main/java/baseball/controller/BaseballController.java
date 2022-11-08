@@ -14,4 +14,8 @@ public class BaseballController {
     public void startGame() {
         baseballView.startGame();
     }
+
+    public void getUserNumbers() {
+        baseballView.getUserNumbers();
+    }
 }

@@ -9,5 +9,6 @@ public class Application {
 
         baseballController.createBaseballNumber();
         baseballController.startGame();
+        baseballController.getUserNumbers();
     }
 }
